@@ -1,5 +1,5 @@
-import styled from 'styled-components';
-import HeroImage from 'assets/hero.jpg';
+import styled from "styled-components";
+import HeroImage from "assets/hero.jpg";
 
 export const Hero = styled.header`
   min-width: 100vw;

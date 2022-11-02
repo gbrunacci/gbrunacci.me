@@ -32,7 +32,12 @@ function Footer(): JSX.Element {
         </a>
       </p>
       <p>
-        <small>Or drop me a line at <a href="mailto:contact@gbrunacci.me?subject=Contact+from+website">contact@gbrunacci.me</a></small>
+        <small>
+          Or drop me a line at{" "}
+          <a href="mailto:contact@gbrunacci.me?subject=Contact+from+website">
+            contact@gbrunacci.me
+          </a>
+        </small>
       </p>
     </Wrapper>
   );
